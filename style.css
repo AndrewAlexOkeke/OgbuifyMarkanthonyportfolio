@@ -1,0 +1,60 @@
+.container-fluid{
+   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+}
+h1{background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Kalnia', serif;
+    color: greenyellow;
+ 
+} 
+#profile img{
+    border-radius: 40%;
+}
+.firsth2{
+    font-family: 'Averia Serif Libre', serif;
+    font-size: 1.5rem;
+    color: green;
+}
+.container-features{
+    background-color: cyan;
+}
+
+.skills{
+    font-size: xx-large;
+    color: purple;
+    padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    } 
+    .featurette-heading{
+            font-family: 'Averia Serif Libre', serif;  
+            color: lightslategray;
+            font-size: x-large;
+            font-weight: bold;
+    }
+    #skills-features{
+        background-color:rgb(135, 217, 250) ;
+    }
+    .row{
+        display: flex;
+        padding-left: 30px;
+        flex-wrap: wrap;
+        margin: 2%;
+    }
+    
+    #footer{
+        background-color: rgb(135, 217, 220);
+
+    }
+    .pb-2{
+        color: #23a6d5;
+    }
+    .button{
+        color: #23a6d5;
+        font
+    }
+    p{
+        font-size: large;
+        font-weight: ;
+    }
